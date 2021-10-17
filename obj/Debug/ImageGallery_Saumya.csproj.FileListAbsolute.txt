@@ -1,0 +1,6 @@
+C:\Users\saumy\source\repos\ImageGallery_Saumya\obj\Debug\ImageGallery_Saumya.csproj.AssemblyReference.cache
+C:\Users\saumy\source\repos\ImageGallery_Saumya\obj\Debug\ImageGallery_Saumya.ImageGallery.resources
+C:\Users\saumy\source\repos\ImageGallery_Saumya\obj\Debug\ImageGallery_Saumya.Properties.Resources.resources
+C:\Users\saumy\source\repos\ImageGallery_Saumya\obj\Debug\ImageGallery_Saumya.csproj.GenerateResource.cache
+C:\Users\saumy\source\repos\ImageGallery_Saumya\obj\Debug\ImageGallery_Saumya.exe.licenses
+C:\Users\saumy\source\repos\ImageGallery_Saumya\obj\Debug\ImageGallery_Saumya.csproj.CoreCompileInputs.cache
