@@ -5,4 +5,4 @@
 4: I have downloaded Grapecity component with 30-days trial.
 
 I have followed all the steps of Image gallery application guide.
-I have never learny C# .Net before but still I have tried and gave my full efforts for this application.
+I have never learnt C# .Net before but still I have tried and gave my full efforts for this application.
